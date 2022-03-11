@@ -1,0 +1,43 @@
+FROM,TO,VALUE
+RainWater,Lake Ecosystem,24
+RainWater,RWH Tanks,58
+RainWater,Surface outflow,31
+GroundWater,BWSSB,1
+GroundWater,Private Wells,57
+GroundWater,Tankers,34
+GroundWater,Parks,34
+Cauvery,BWSSB,51
+Recycled WW,BWSSB,83
+TG Hallie,BWSSB,1
+Parks,Evapotranspiration,98
+RWH Tanks,Domestic Water Use,72
+RWH Tanks,CII Water Use,55
+BWSSB,GroundWater,90
+BWSSB,Domestic Water Use,19
+Private Wells,Domestic Water Use,72
+Tankers,Domestic Water Use,28
+BWSSB,CII Water Use,56
+Private Wells,CII Water Use,79
+Tankers,CII Water Use,11
+Lake Ecosystem,Evapotranspiration,34
+Lake Ecosystem,Surface outflow,45
+Domestic Water Use,Public Treated Waste Water,79
+Domestic Water Use,Private Treated Waste Water,31
+Domestic Water Use,Untreated Waste Water,55
+Domestic Water Use,Evapotranspiration,35
+Domestic Water Use,GroundWater,45
+CII Water Use,Evapotranspiration,13
+CII Water Use,Untreated Waste Water,50
+CII Water Use,Public Treated Waste Water,0
+CII Water Use,Private Treated Waste Water,50
+Public Treated Waste Water,Recycled WW,46
+Public Treated Waste Water,Lake Ecosystem,27
+Private Treated Waste Water,Lake Ecosystem,81
+Public Treated Waste Water,CII Water Use,18
+Public Treated Waste Water,Domestic Water Use,47
+Private Treated Waste Water,CII Water Use,1
+Private Treated Waste Water,Domestic Water Use,54
+Public Treated Waste Water,Surface outflow,5
+Private Treated Waste Water,Surface outflow,86
+Untreated Waste Water,Lake Ecosystem,49
+Untreated Waste Water,Surface outflow,18
